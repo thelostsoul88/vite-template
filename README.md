@@ -8,3 +8,6 @@
  
  Setup base on vite.config:
  - base: "/[REPO_NAME]/"
+
+ In package.json:
+ - "name": "/[REPO_NAME]/",
