@@ -3,11 +3,7 @@
  Ready to use template Vite with react routes support
  
  To use:
- - git clone
- - git remote set-url origin https://github.com/OWNER/REPOSITORY.git
-
- Or: 
- press button 'Use this template' and press 'create a new repo'
+ - press button 'Use this template' and press 'create a new repo'
  
  Setup base on vite.config:
  - base: "/[REPO_NAME]/"
