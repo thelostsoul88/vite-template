@@ -9,4 +9,4 @@
  - base: "/[REPO_NAME]/"
 
  In package.json:
- - "name": "/[REPO_NAME]/",
+ - "name": "[REPO_NAME]",
